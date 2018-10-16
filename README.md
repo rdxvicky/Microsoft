@@ -33,3 +33,6 @@ The orientation labels you are predicting have the following meaning when the im
 1: Spine at right, patient facing left.
 2: Spine at top, patient facing down.
 3: Spine at left, patient facing right.
+
+<h4><b>Evaluation</b></h4>
+ACCURECY = 99.96%
