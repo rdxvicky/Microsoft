@@ -1,5 +1,5 @@
 <h1> Improving Data Quality in Medical Imaging 
-HOSTED BY MICROSOF</h1>
+HOSTED BY MICROSOFT</h1>
 
 
 Improving Data Quality in Medical Imaging
